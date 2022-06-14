@@ -1,0 +1,3 @@
+-- insert into day(id,name)
+-- values(1,'Dushanba'),
+-- values(2,'Seshanba')
